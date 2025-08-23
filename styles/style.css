@@ -124,7 +124,7 @@ main {
   gap: 78px;
   margin-top: 105px;
   padding: 0 50px;
-  color: #ffffff;
+  color: white;
   font-size: 22px;
   font-style: normal;
   text-transform: uppercase;
@@ -137,7 +137,7 @@ main {
 .bet-button {
   border: 1px solid;
   padding: 12px 32px;
-  color: #ffffff;
+  color: white;
   background: none;
 }
 
@@ -212,27 +212,23 @@ main {
 .card__text {
   position: relative;
   z-index: 1;
+  color: white;
 }
 
 .card__title {
   margin-bottom: 20px;
-  color: #fff;
   font-size: 22px;
-  font-style: normal;
   text-decoration-line: underline;
   text-transform: uppercase;
 }
-
 .card__text {
-  color: #fff;
   font-size: 20px;
-  font-style: normal;
 }
 
 .lots__look-more-link {
   display: block;
   margin-top: 30px;
-  color: #000000;
+  color: #000;
   font-size: 20px;
   font-style: normal;
   margin-left: 40px;
